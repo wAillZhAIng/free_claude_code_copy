@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/Alishahryar1/free-claude-code",
+  "revision": "56621010ada15b633d76ab19178764bb3e81bcc5",
+  "license": "AGPL-3.0-only",
+  "python": "3.14.10",
+  "entrypoint": "fcc-server",
+  "reviewed_on": "2026-11-13",
+  "scope": "Integration helper; FCC source is a separate dependency, not vendored. This commit is pinned, but transitive dependencies are not locked by this helper.",
+  "license_url": "https://github.com/Alishahryar1/free-claude-code/blob/56621010ada15b633d76ab19178764bb3e81bcc5/LICENSE"
+}

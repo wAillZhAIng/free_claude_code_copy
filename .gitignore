@@ -1,0 +1,30 @@
+# Never commit runtime or private account state.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.runtime/
+runtime/
+.state/
+state/
+home/
+.fcc/
+.env
+.env.*
+*.log
+*.pem
+*.key
+api-key.txt
+credentials.json
+tokens.json
+# Generated locally from the pinned, fingerprint-checked upstream module.
+compat/
+# Model weights and local databases are not part of this Skill.
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.sqlite*
+*.db
+.DS_Store
+Thumbs.db

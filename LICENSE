@@ -1,0 +1,24 @@
+SPDX-License-Identifier: AGPL-3.0-only
+
+Portable Model Gateway integration helper
+
+This integration helper is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by the
+Free Software Foundation, version 3 only.
+
+This helper is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+A complete copy of the AGPL v3 text, together with the separately installed
+upstream's original copyright notice, is included in LICENSES/FCC-Upstream.txt.
+The canonical license text is also available at:
+https://www.gnu.org/licenses/agpl-3.0.txt
+
+The separately installed Free Claude Code runtime is an independent upstream
+work licensed AGPL-3.0-only. Its own copyright notices and license are retained
+in that installation. Source and license:
+https://github.com/Alishahryar1/free-claude-code
+https://github.com/Alishahryar1/free-claude-code/blob/56621010ada15b633d76ab19178764bb3e81bcc5/LICENSE
+
+This helper is not endorsed by OpenAI, Anthropic, or the FCC maintainers.
